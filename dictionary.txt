@@ -1,122 +1,122 @@
 # Gboard Dictionary version:1
-#All Language
+#zh-CN
 
 #X岛 x d
-x d	(つд⊂)	
-x d	( ﾟ∀ﾟ)	
-x d	( ´∀`)	
-x d	(*´∀`)	
-x d	(*ﾟ∇ﾟ)	
-x d	(　ﾟ 3ﾟ)	
-x d	(ゝ∀･)	
-x d	(〃∀〃)	
-x d	(*ﾟ∀ﾟ*)	
-x d	( ﾟ∀。)	
-x d	( `д´)	
-x d	(`ε´ )	
-x d	(`ヮ´ )	
-x d	ﾟ ∀ﾟ)ノ	
-x d	(╬ﾟдﾟ)	
-x d	(>д<)	
-x d	( `_っ´)	
-x d	( `ー´)	
-x d	( ´ρ`)	
-x d	(ノﾟ∀ﾟ)ノ	
-x d	(σﾟдﾟ)σ	
-x d	(σﾟ∀ﾟ)σ	
-x d	･ﾟ( ﾉヮ´ )	
-x d	(ﾉ)`ω´(ヾ)	
-x d	ᕕ( ᐛ )ᕗ	
-x d	( ｣ﾟДﾟ)｣＜	
-x d	( ›´ω`‹ )	
-x d	(`ゥ´ )	
-x d	(`ᝫ´ )	
-x d	σ( ᑒ )	
+x d	(つд⊂)	zh-CN
+x d	( ﾟ∀ﾟ)	zh-CN
+x d	( ´∀`)	zh-CN
+x d	(*´∀`)	zh-CN
+x d	(*ﾟ∇ﾟ)	zh-CN
+x d	(　ﾟ 3ﾟ)	zh-CN
+x d	(ゝ∀･)	zh-CN
+x d	(〃∀〃)	zh-CN
+x d	(*ﾟ∀ﾟ*)	zh-CN
+x d	( ﾟ∀。)	zh-CN
+x d	( `д´)	zh-CN
+x d	(`ε´ )	zh-CN
+x d	(`ヮ´ )	zh-CN
+x d	ﾟ ∀ﾟ)ノ	zh-CN
+x d	(╬ﾟдﾟ)	zh-CN
+x d	(>д<)	zh-CN
+x d	( `_っ´)	zh-CN
+x d	( `ー´)	zh-CN
+x d	( ´ρ`)	zh-CN
+x d	(ノﾟ∀ﾟ)ノ	zh-CN
+x d	(σﾟдﾟ)σ	zh-CN
+x d	(σﾟ∀ﾟ)σ	zh-CN
+x d	･ﾟ( ﾉヮ´ )	zh-CN
+x d	(ﾉ)`ω´(ヾ)	zh-CN
+x d	ᕕ( ᐛ )ᕗ	zh-CN
+x d	( ｣ﾟДﾟ)｣＜	zh-CN
+x d	( ›´ω`‹ )	zh-CN
+x d	(`ゥ´ )	zh-CN
+x d	(`ᝫ´ )	zh-CN
+x d	σ( ᑒ )	zh-CN
 
 #膀胱者 p g
-p g	| ω・´)	
-p g	|-` )	
-p g	|д` )	
-p g	|ー` )	
-p g	|∀` )	
-p g	|∀ﾟ	
-p g	|дﾟ )	
+p g	| ω・´)	zh-CN
+p g	|-` )	zh-CN
+p g	|д` )	zh-CN
+p g	|ー` )	zh-CN
+p g	|∀` )	zh-CN
+p g	|∀ﾟ	zh-CN
+p g	|дﾟ )	zh-CN
 
 #悲报 b b
-b b	(;´Д`)	
-b b	( ´ー`)	
-b b	( ・_ゝ・)	
-b b	( ´_ゝ`)	
-b b	(*´д`)	
-b b	･ﾟ( ﾉд`ﾟ)	
-b b	( ;´д`)	
-b b	( ´д`)	
-b b	( TдT)	
-b b	ﾟ(つд`ﾟ)	
-b b	( ´_っ`)	
-b b	(;´ヮ`)7	
-b b	(・ー・)	
-b b	(*ﾟーﾟ)	
+b b	(;´Д`)	zh-CN
+b b	( ´ー`)	zh-CN
+b b	( ・_ゝ・)	zh-CN
+b b	( ´_ゝ`)	zh-CN
+b b	(*´д`)	zh-CN
+b b	･ﾟ( ﾉд`ﾟ)	zh-CN
+b b	( ;´д`)	zh-CN
+b b	( ´д`)	zh-CN
+b b	( TдT)	zh-CN
+b b	ﾟ(つд`ﾟ)	zh-CN
+b b	( ´_っ`)	zh-CN
+b b	(;´ヮ`)7	zh-CN
+b b	(・ー・)	zh-CN
+b b	(*ﾟーﾟ)	zh-CN
 
 #阴阳人 y y r
-y y r	(　^ω^)	
-y y r	(｡◕∀◕｡)	
-y y r	/( ◕‿‿◕ )\	
-y y r	(　ˇωˇ)	
-y y r	(＾o＾)ﾉ	
-y y r	(・∀・)	
+y y r	(　^ω^)	zh-CN
+y y r	(｡◕∀◕｡)	zh-CN
+y y r	/( ◕‿‿◕ )\	zh-CN
+y y r	(　ˇωˇ)	zh-CN
+y y r	(＾o＾)ﾉ	zh-CN
+y y r	(・∀・)	zh-CN
 
 #打拳 d q
-d q	⊂彡☆))д`)	
-d q	⊂彡☆))д´)	
-d q	⊂彡☆))∀`)	
-d q	(´∀((☆ミつ	
-d q	( ᑭ`д´)ᓀ))д´)ᑫ	
+d q	⊂彡☆))д`)	zh-CN
+d q	⊂彡☆))д´)	zh-CN
+d q	⊂彡☆))∀`)	zh-CN
+d q	(´∀((☆ミつ	zh-CN
+d q	( ᑭ`д´)ᓀ))д´)ᑫ	zh-CN
 
 #蛤他 h t
-h t	σ`∀´)	
-h t	ﾟ∀ﾟ)σ	
-h t	(`ヮ´ )σ`∀´) ﾟ∀ﾟ)σ	
+h t	σ`∀´)	zh-CN
+h t	ﾟ∀ﾟ)σ	zh-CN
+h t	(`ヮ´ )σ`∀´) ﾟ∀ﾟ)σ	zh-CN
 
 #特殊 t s
-t s	┃電柱┃	
-t s	☎110	
-t s	⚧	
-t s	☕	
-t s	(`ε´(つ*⊂)	
-t s	（<ゝω・）☆	
+t s	┃電柱┃	zh-CN
+t s	☎110	zh-CN
+t s	⚧	zh-CN
+t s	☕	zh-CN
+t s	(`ε´(つ*⊂)	zh-CN
+t s	（<ゝω・）☆	zh-CN
 
-#不常用 b c y 
-b c y	(｀･ω･)	
-b c y	( ` ・´)	
-b c y	( -д-)	
-b c y	ヾ(´ε`ヾ)	
-b c y	ヾ(´ωﾟ｀)	
-b c y	(oﾟωﾟo)	
+#不常用 b c y
+b c y	(｀･ω･)	zh-CN
+b c y	( ` ・´)	zh-CN
+b c y	( -д-)	zh-CN
+b c y	ヾ(´ε`ヾ)	zh-CN
+b c y	ヾ(´ωﾟ｀)	zh-CN
+b c y	(oﾟωﾟo)	zh-CN
 
 #震惊 z j
-z j	(´ﾟДﾟ`)	
-z j	(ﾟДﾟ≡ﾟДﾟ)	
-z j	(|||ﾟДﾟ)	
-z j	( ﾟдﾟ)	
-z j	(　д ) ﾟ ﾟ	
-z j	( ☉д⊙)	
-z j	(((　ﾟдﾟ)))	
-z j	ﾟÅﾟ )	
+z j	(´ﾟДﾟ`)	zh-CN
+z j	(ﾟДﾟ≡ﾟДﾟ)	zh-CN
+z j	(|||ﾟДﾟ)	zh-CN
+z j	( ﾟдﾟ)	zh-CN
+z j	(　д ) ﾟ ﾟ	zh-CN
+z j	( ☉д⊙)	zh-CN
+z j	(((　ﾟдﾟ)))	zh-CN
+z j	ﾟÅﾟ )	zh-CN
 
 #萌二 me r
-me r	(￣∇￣)	
-me r	(￣3￣)	
-me r	(￣ｰ￣)	
-me r	(￣ . ￣)	
-me r	(￣皿￣)	
-me r	(￣艸￣)	
-me r	(￣︿￣)	
-me r	(￣︶￣)	
-me r	(*´ω`*)	
-me r	(・ω・)	
-me r	( ´・ω)	
-me r	(｀・ω)	
-me r	(`・ω・´)	
-me r	( ﾟωﾟ)	
-me r	(=ﾟωﾟ)=	
+me r	(￣∇￣)	zh-CN
+me r	(￣3￣)	zh-CN
+me r	(￣ｰ￣)	zh-CN
+me r	(￣ . ￣)	zh-CN
+me r	(￣皿￣)	zh-CN
+me r	(￣艸￣)	zh-CN
+me r	(￣︿￣)	zh-CN
+me r	(￣︶￣)	zh-CN
+me r	(*´ω`*)	zh-CN
+me r	(・ω・)	zh-CN
+me r	( ´・ω)	zh-CN
+me r	(｀・ω) zh-CN
+me r	(`・ω・´)	zh-CN
+me r	( ﾟωﾟ)	zh-CN
+me r	(=ﾟωﾟ)=	zh-CN
