@@ -1,0 +1,96 @@
+# Gboard Dictionary version:1
+a d	(｀･ω･)	zh-CN
+a d	(=ﾟωﾟ)=	zh-CN
+a d	(つд⊂)	zh-CN
+a d	(ﾟДﾟ≡ﾟДﾟ)	zh-CN
+a d	(＾o＾)ﾉ	zh-CN
+a d	(ﾟ∀ﾟ)	zh-CN
+a d	(*ﾟ∇ﾟ)	zh-CN
+a d	(ﾟ3ﾟ)	zh-CN
+a d	(・ー・)	zh-CN
+a d	(・∀・)	zh-CN
+a d	(ゝ∀･)	zh-CN
+a d	(〃∀〃)	zh-CN
+a d	(*ﾟ∀ﾟ*)	zh-CN
+a d	(ﾟ∀。)	zh-CN
+a d	(`д´)	zh-CN
+a d	(`ε´)	zh-CN
+a d	ﾟ∀ﾟ)ノ	zh-CN
+a d	(☉д⊙)	zh-CN
+a d	(`・´)	zh-CN
+a d	(-д-)	zh-CN
+a d	(´・ω・`)	zh-CN
+a d	(`・ω・´)	zh-CN
+a d	(`_っ´)	zh-CN
+a d	(´ρ`)	zh-CN
+a d	(ノﾟ∀ﾟ)ノ	zh-CN
+a d	ﾟÅﾟ)	zh-CN
+a d	(`ヮ´)	zh-CN
+h t	(σﾟдﾟ)σ	zh-CN
+h t	(σﾟ∀ﾟ)σ	zh-CN
+h t	σ`∀´)	zh-CN
+h t	ﾟ∀ﾟ)σ	zh-CN
+p g	|∀ﾟ	zh-CN
+p g	|ω・´)	zh-CN
+p g	|-`)	zh-CN
+p g	|д`)	zh-CN
+p g	|ー`)	zh-CN
+p g	|∀`)	zh-CN
+p g	|дﾟ)	zh-CN
+z j	(´ﾟДﾟ`)	zh-CN
+z j	(╬ﾟдﾟ)	zh-CN
+z j	(|||ﾟдﾟ)	zh-CN
+z j	(ﾟдﾟ)	zh-CN
+z j	Σ(ﾟдﾟ)	zh-CN
+z j	(;ﾟдﾟ)	zh-CN
+z j	(((ﾟдﾟ)))	zh-CN
+z j	(д)ﾟﾟ	zh-CN
+z j	(|||ﾟДﾟ)	zh-CN
+b b	(;´Д`)	zh-CN
+b b	(´∀`)	zh-CN
+b b	(*´∀`)	zh-CN
+b b	(´ー`)	zh-CN
+b b	(・_ゝ・)	zh-CN
+b b	(´_ゝ`)	zh-CN
+b b	(;´д`)	zh-CN
+b b	(´д`)	zh-CN
+b b	(>д<)	zh-CN
+b b	･ﾟ(ﾉд`ﾟ)	zh-CN
+b b	(TдT)	zh-CN
+b b	(*´д`)	zh-CN
+b b	(*ﾟーﾟ)	zh-CN
+b b	ﾟ(つд`ﾟ)	zh-CN
+y y r	(^ω^)	zh-CN
+d q	⊂彡☆))д`)	zh-CN
+d q	⊂彡☆))д´)	zh-CN
+d q	⊂彡☆))∀`)	zh-CN
+d q	(´∀((☆ミつ	zh-CN
+t s	¯\_(ツ)_/¯	zh-CN
+t s	☎110	zh-CN
+t s	⚧	zh-CN
+t s	☕	zh-CN
+t s	(`ε´(つ*⊂)	zh-CN
+t s	┃電柱┃	zh-CN
+t s	（<ゝω・）☆	zh-CN
+b c y	ヾ(´ωﾟ｀)	zh-CN
+b c y	(*´ω`*)  	zh-CN
+b c y	(・ω・)  	zh-CN
+b c y	(´・ω)   	zh-CN
+b c y	(｀・ω)  	zh-CN
+b c y	(`ー´)   	zh-CN
+b c y	(´_っ`)  	zh-CN
+b c y	(ﾟωﾟ)    	zh-CN
+me r	(oﾟωﾟo)	zh-CN
+me r	(｡◕∀◕｡)	zh-CN
+me r	/(◕‿‿◕)\	zh-CN
+me r	ヾ(´ε`ヾ)	zh-CN
+me r	(￣∇￣)	zh-CN
+me r	(￣3￣)	zh-CN
+me r	(￣ｰ￣)	zh-CN
+me r	(￣.￣)	zh-CN
+me r	(￣皿￣)	zh-CN
+me r	(￣艸￣)	zh-CN
+me r	(￣︿￣)	zh-CN
+me r	(￣︶￣)	zh-CN
+me r	ヾ(´ωﾟ｀)	zh-CN
+me r	(*´ω`*)	zh-CN
